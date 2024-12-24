@@ -102,9 +102,12 @@ O Chatbot ENEM Trainer é uma solução interativa desenvolvida para auxiliar es
 <p>Mostrando a questão</p>
 
 
-
 ![Vídeo](./images/video.gif)
 <p>Chatbot funcionando</p>
 
 
 </div>
+
+## Conclusão
+
+O ENEM Trainer é uma ferramenta interativa que auxilia estudantes na preparação para o ENEM, oferecendo questões personalizadas com base no ano e nas disciplinas escolhidas. A integração com uma API de questões e um chatbot facilita a navegação e a prática contínua. O projeto superou desafios de filtragem de dados e criação de uma interface intuitiva. Ele oferece uma experiência de aprendizado adaptativa e eficiente para melhorar o desempenho dos alunos no exame.
