@@ -61,7 +61,7 @@ O Chatbot ENEM Trainer é uma solução interativa desenvolvida para auxiliar es
 
 ## Dificuldades
 
-### Dificuldades Fictícias na Criação das Funções de Preferências do Usuário
+### Dificuldades na Criação das Funções de Preferências do Usuário
 
 - [x] **Estruturação e Armazenamento das Preferências do Usuário**  
   - Decidir onde e como armazenar as preferências do usuário.  
