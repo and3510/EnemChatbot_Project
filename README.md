@@ -87,12 +87,13 @@ O Chatbot ENEM Trainer é uma solução interativa desenvolvida para auxiliar es
 
 ## Resultados
 
+
+## Resultados
+
 <div style="text-align: center;">
-  <video autoplay muted loop>
-    <source src="./images/video.webm" type="video/mp4">
-    Seu navegador não suporta o formato de vídeo.
-  </video>
+
+![Vídeo](./images/video.gif)
+<p>Chatbot funcionando</p>
+
+
 </div>
-
-
-
